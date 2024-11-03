@@ -4,3 +4,4 @@ brd.superproxy.io:22225:brd-customer-hl_30813c32-zone-datacenter_proxy1-ip-136.2
 brd.superproxy.io:22225:brd-customer-hl_30813c32-zone-datacenter_proxy1-ip-136.227.178.163:gawgwup0s988
 brd.superproxy.io:22225:brd-customer-hl_30813c32-zone-datacenter_proxy1-ip-136.227.178.85:gawgwup0s988
 brd.superproxy.io:22225:brd-customer-hl_30813c32-zone-datacenter_proxy1-ip-136.227.178.239:gawgwup0s988
+brd.superproxy.io:22225:brd-customer-hl_30813c32-zone-datacenter_proxy1-ip-136.227.178.183:gawgwup0s988
